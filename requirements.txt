@@ -1,0 +1,8 @@
+streamlit
+librosa
+numpy
+matplotlib
+Pillow
+tensorflow
+scikit-learn
+demucs
